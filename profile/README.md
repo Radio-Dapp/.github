@@ -40,4 +40,10 @@ Our Fund Manager is a decentralized platform that allows users to create and inv
 
 - Monitor and Earn: Fund managers earn fees from investments, while investors track fund performance.
  
-- Exit a Fund: Investors can sell their fund shares in exchange for their proportional holdings.
+- Exit a Fund: Investors can sell their fund shares in exchange for their proportional holdings
+
+
+
+# Developing on flare
+Building on Flare was a great experience, especially as our idea kept evolving. The flexibility of the ecosystem allowed us to adapt quickly, and SparkDEX on Flare played a crucial role in shaping our approach by providing leverage functionalities that enhanced our solution. We also explored Flare Data Connector (FDC), which made it incredibly easy to fetch EVM transaction data from any chain, streamlining cross-chain interactions. This saved us significant development time and allowed us to focus on refining our core logic rather than dealing with data retrieval complexities. Overall, Flare provided the right tools and infrastructure to support our project’s dynamic nature, making cross-chain and DeFi development much more efficient.
+
