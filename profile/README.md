@@ -2,6 +2,8 @@
 # Radio - Trustless, Permissionless, Managed Funds
 
 
+Demo link: https://youtu.be/8WcUs_57NvM?si=f2eWPIFRvOOY1xoE
+
 ![Screenshot 2025-02-09 091142.png](https://cdn.dorahacks.io/static/files/194e9faf5373bd8f70c04aa4e0cb87bb.png)
 
 ## Overview
